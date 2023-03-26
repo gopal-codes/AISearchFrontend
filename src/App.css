@@ -1,0 +1,13 @@
+
+.App {
+  height: 100vh;
+  background-image: url("../src/assets/robotbackground.JPG");
+  background-repeat: no-repeat;
+  width: 100vw;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-position: center;
+}
+
+
+
